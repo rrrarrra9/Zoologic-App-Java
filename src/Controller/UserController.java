@@ -9,7 +9,7 @@ import java.util.List;
 import java.time.LocalDateTime;
 
 
-/
+
 public class UserController {
     //obtener todos los usuarios
     public static List<Usuario> getAllUsers() {
